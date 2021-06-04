@@ -1,8 +1,13 @@
 module.exports = {
-  purge: ['./components/**/*.tsx', './pages/**/*.tsx','./public/**/*.html'],
+  purge: ['./components/**/*.tsx', './pages/**/*.tsx', './public/**/*.html'],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sfpro: 'SF Pro Display',
+        neuebit: 'NeueBit'
+      }
+    },
   },
   variants: {
     extend: {},
