@@ -2,7 +2,7 @@
 
 This is built on Next.js + Typescript + TailwindCSS + OpenSea API + React Web3
 
-[Live Demo](http://localhost:3000)
+[Live Demo](https://nft-opensea-api-web3-demo.vercel.app/)
 ## Getting Started
 
 First, run the development server:
