@@ -6,6 +6,10 @@ module.exports = {
       fontFamily: {
         sfpro: 'SF Pro Display',
         neuebit: 'NeueBit'
+      },
+      colors: {
+        grayBg: 'var(--color-gray-bg)',
+        grayDefault: 'var(--color-gray-default)',
       }
     },
   },
