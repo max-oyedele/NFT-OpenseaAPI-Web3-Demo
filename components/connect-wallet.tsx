@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useWeb3Context } from "web3-react";
 import Modal from "components/modal";
 
