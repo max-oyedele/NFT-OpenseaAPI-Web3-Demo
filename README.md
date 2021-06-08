@@ -21,3 +21,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 [web3-react](https://github.com/NoahZinsmeister/web3-react)
 
+## Screenshots
+
+<img src="./screenshots/home.png" width="1000px" height="500px">
+
+<img src="./screenshots/connect_wallet.png" width="1000px" height="500px">
+
+<img src="./screenshots/mobile_home.png" width="300px" height="600px">
+
+<img src="./screenshots/mobile_view.png" width="300px" height="600px">
